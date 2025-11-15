@@ -1,0 +1,32 @@
+# requirements.txt (Reconstrução Ordenada - Essencial)
+
+# Framework UI (Essencial)
+PyQt6
+
+# Cérebro IA (Essencial)
+ollama
+
+# Audição (Essencial)
+faster-whisper # Depende de ctranslate2 (constraints)
+pvporcupine
+pyaudio
+SpeechRecognition
+
+# Fala (Essencial)
+# TTS # Controlado por constraints
+sounddevice
+unidecode # Dependência da TTS
+
+# Ferramentas Core (Já incluídas via constraints ou outras dependências)
+# numpy, torch*, transformers, tokenizers, soundfile, requests, urllib3, numba
+
+# Ferramentas Fase 6 (Instalar DEPOIS do core)
+# scapy
+# mac-vendor-lookup
+# watchdog
+
+# Ferramentas Fase 7 (Instalar DEPOIS do core)
+# beautifulsoup4
+# feedparser
+
+# RAG - REMOVIDOS COMPLETAMENTE POR AGORA

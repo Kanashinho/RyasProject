@@ -1,0 +1,17 @@
+# --- ARQUIVO MAIS IMPORTANTE ---
+# Ignora o arquivo de configuração com senhas e chaves de API
+config.ini
+
+# Arquivos de ambiente virtual (se você usar)
+venv/
+*.venv/
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log (se criarmos)
+*.log

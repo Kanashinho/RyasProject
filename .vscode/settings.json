@@ -1,0 +1,16 @@
+{
+    // Aponta para o Python do nosso ambiente virtual
+    "python.defaultInterpreterPath": ".venv",
+
+    // Configurações específicas para arquivos Python
+    "[python]": {
+        // Define o Ruff como o formatador padrão
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        // Formata o código automaticamente ao salvar
+        "editor.formatOnSave": true,
+        // Ativa a organização automática de 'imports' ao salvar
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    }
+}

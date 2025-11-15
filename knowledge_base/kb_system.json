@@ -1,0 +1,29 @@
+{
+  "rede_confiavel": {
+    "macs_conhecidos": [
+      "00:E0:4C:A8:01:5B",
+      "18:DE:50:09:67:91",
+      "18:DE:50:09:7D:C2",
+      "18:DE:50:75:DE:94",
+      "18:DE:50:75:F1:5E",
+      "20:BE:B8:24:BE:A3",
+      "24:81:C7:2B:05:89",
+      "3E:DD:FC:90:52:A1",
+      "5C:C9:D3:96:84:AC"
+    ]
+  },
+  "stack_tecnologico": {
+    "linguagem": "Python 3.11",
+    "cerebro_ia": "llama3:8b (via Ollama)",
+    "transcricao_de_voz": "faster-whisper (GPU)",
+    "sintese_de_voz": "Coqui TTS (XTTS v2)",
+    "interface": "PyQt6"
+  },
+  "funcoes_atuais": [
+    "Conversação e chat (IA Llama3)",
+    "Geração de código (IA DeepSeek-Coder)",
+    "Audição por palavra de ativação (Wake Word)",
+    "Interface visual flutuante",
+    "Presença na bandeja do sistema"
+  ]
+}

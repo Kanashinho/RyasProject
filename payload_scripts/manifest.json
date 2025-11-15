@@ -1,0 +1,37 @@
+{
+  "ColetorWifi": {
+    "filename": "ColetorWifi.py",
+    "language": "python",
+    "description": "Coleta senhas de redes Wi-Fi salvas no sistema Windows.",
+    "target_os": [
+      "windows"
+    ],
+    "requires_admin": true,
+    "creation_date": "2025-10-20",
+    "last_modified": "2025-10-20",
+    "notes": "Usa comandos 'netsh' do Windows."
+  },
+  "KeyloggerSimples": {
+    "filename": "Keylogger.ps1",
+    "language": "powershell",
+    "description": "Registra teclas digitadas em um arquivo de log local (keylog.txt).",
+    "target_os": [
+      "windows"
+    ],
+    "requires_admin": false,
+    "creation_date": "2025-10-20",
+    "last_modified": "2025-10-20",
+    "notes": "Script PowerShell básico, fácil de detectar."
+  },
+  "Chamado": {
+    "filename": "TesteUm.py",
+    "language": "python",
+    "description": "debloquia o windows",
+    "target_os": [
+      "windows"
+    ],
+    "requires_admin": false,
+    "creation_date": "2025-10-23",
+    "last_modified": "2025-10-23"
+  }
+}
