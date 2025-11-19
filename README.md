@@ -23,7 +23,7 @@ Latência: Ajuste de parâmetros de geração (temperatura, top_k) para equilibr
 📦 Como Rodar
 
 # 1. Clone o repo
-git clone https://github.com/winter/ryas.git
+git clone https://github.com/Kanashinho/RyasProject.git
 
 # 2. Instale as dependências (Ambiente isolado)
 pip install -r requirements.txt
