@@ -84,6 +84,7 @@ Módulo Byakugan realiza scan de rede em background, identificando dispositivos 
 - [Ollama](https://ollama.ai) instalado e rodando
 - Modelo Llama3 baixado: `ollama pull llama3`
 - Mínimo 8GB RAM (16GB recomendado)
+- Mínimo 8GB VRAM 
 
 ---
 
@@ -179,9 +180,9 @@ Você pode usar, copiar e modificar livremente, **desde que mantenha os crédito
 ## 👤 Autor
 
 **Kauã M. S. Winter Moraes**
-- LinkedIn: [linkedin.com/in/kaua-winter](https://linkedin.com/in/kaua-winter)
+- LinkedIn: [linkedin.com/in/kaua-winter](www.linkedin.com/in/kauã-winter)
 - GitHub: [@Kanashinho](https://github.com/Kanashinho)
-- Email: kaua.wintermoraes@gmail.com
+- Email: kmarcelino0010@gmail.com
 
 ---
 
